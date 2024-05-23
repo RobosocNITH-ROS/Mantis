@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/anurag/ws_irosa/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/anurag/ws_irosa/src/panda-gazebo/franka_ros/franka_control/include/**",
+        "/home/anurag/ws_irosa/src/panda-gazebo/franka_ros/franka_example_controllers/include/**",
+        "/home/anurag/ws_irosa/src/panda-gazebo/franka_ros/franka_gazebo/include/**",
+        "/home/anurag/ws_irosa/src/panda-gazebo/franka_ros/franka_gripper/include/**",
+        "/home/anurag/ws_irosa/src/panda-gazebo/franka_ros/franka_hw/include/**",
+        "/home/anurag/wheelchair_ws/src/rf2o_laser_odometry/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,6 @@
+<launch>
+    <include file="$(find wc_navigation)/launch/wc_navigation.launch"/>
+    <node pkg="wc_navigation" type="sock.py" name="sock" output="screen"/>
+    <node pkg="wc_navigation" type="goal_set.py" name="biogoal_publisher" output="screen"/>
+</launch>
+ 

@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/anurag/wheelchair_ws/devel/lib/python3/dist-packages",
+        "/home/anurag/ws_irosa/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari/ocatari/vision",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari/ocatari",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari/ocatari/ram"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/anurag/wheelchair_ws/devel/lib/python3/dist-packages",
+        "/home/anurag/ws_irosa/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari/ocatari/vision",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari/ocatari",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari",
+        "/home/anurag/Desktop/HiWi_RL/OC_Atari/ocatari/ram"
+    ]
+}
