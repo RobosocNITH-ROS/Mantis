@@ -43,7 +43,7 @@ roslaunch rplidar_ros rplidar.launch
 **Launching the mapping node** 
 
 ```
-roslaunch wc_navigation map_hector.launch)
+roslaunch wc_navigation map_hector.launch
 ```
 
 **Saving the map**
