@@ -17,7 +17,7 @@ https://github.com/Avisheet/Mantis/assets/59338120/e65eb5c8-eb00-4cac-90d0-b5668
 - **rplidar_ros**: Standard package for getting sensor data from RPLiDAR.
 - **wc_navigation**: Relevant launch files for navigation of MANTS in 2D mode.
 
-## Pre-requisits:
+## Pre-requisites:
 Before deploying MANTIS, it's crucial to verify that all necessary libraries are installed both in the Arduino IDE and on your device.
 - **Setting Up the Device.**
 ```
